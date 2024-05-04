@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 
 # web_camera
-cap = cv2.VideoCapture("G:\\vehicle detection\\video.mp4")
+cap = cv2.VideoCapture("video.mp4")
 
 min_width_react= 80
 min_height_react= 80
